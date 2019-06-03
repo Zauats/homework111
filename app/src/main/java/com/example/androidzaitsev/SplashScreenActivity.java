@@ -14,5 +14,5 @@ import android.view.View;
  */
 public class SplashScreenActivity extends AppCompatActivity {
 
-
+//
 }
