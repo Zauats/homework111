@@ -7,10 +7,9 @@
     android:background="#0099cc"
     tools:context=".SplashScreenActivity">
 
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:srcCompat="@android:drawable/sym_def_app_icon" />
+        app:srcCompat="@drawable/ic_action_name" />
 </FrameLayout>
